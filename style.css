@@ -1,0 +1,45 @@
+css
+body {   
+  }
+  
+h1 {
+    text-align: center;
+  }
+
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#green{
+    color: green;
+}
+#bigtext{
+    font-size: 29px;
+}
+#tinytext{
+    font-size: 5px;
+}
+#centertext{
+    text-align: center;
+}
+#boldtext{
+    font-weight: bold;
+}
+#fontchangetext{
+    font-family: impact, sans-serif;
+}
+#combotext{
+    font-size: 35px;
+    font-family: haettenschweiler;
+    color: orange;
+}
+.styledFont{
+    color: plum;
+}
+#styledImage{
+    border-width: thick;
+    outline-style: solid;
+    outline-color: rgb(0, 128, 32);
+}
